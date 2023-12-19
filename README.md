@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsav7428&label=Profile%20views&color=0e75b6&style=flat" alt="utsav7428" /> </p>
 
-- 🔭 I’m currently working on **FoodGram**
 
 - 📫 How to reach me **utsav73629@gmail.com**
 
