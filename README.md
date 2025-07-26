@@ -54,12 +54,6 @@
 
 ---
 
-<h3>📊 GitHub Stats</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsav7428&layout=compact&langs_count=10&theme=default" alt="Top Languages" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utsav7428&show_icons=true&locale=en&theme=default" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utsav7428&theme=default" alt="Streak Stats" /></p>
 
 ---
 
